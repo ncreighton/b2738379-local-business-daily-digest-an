@@ -1,2 +1,34 @@
-# b2738379-local-business-daily-digest-an
-local business professionals waste hours on missing messages, manually responding to routine requests at all hours. This fixes that.  Easy setup: invite → configure → active in under 10 minutes. Multi-server support with per-server configuration and permission levels.  ## What's Included  - Local Business Daily Digest And Alerts — fully configured
+# Local Business Daily Digest and Alerts Telegram Bot
+
+Curated daily updates, trend alerts, and personalized notifications for Local Business professionals. Stay informed without information overload.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJefZh6mX8IsaNO47qcZH1I)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJefZh6mX8IsaNO47qcZH1I)
+
